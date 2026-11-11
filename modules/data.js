@@ -1,8 +1,8 @@
 const grades = [ 
-{ name: "å†™†‡", score: 85 }, 
-{ name: "Ñ•≠®·", score: 92 }, 
-{ name: "Ä≠≠†", score: 78 }, 
-{ name: "Ñ†Ë†", score: 88 }, 
-{ name: "ë‚„§•≠‚_X", score: 45 } 
+{ name: "–ú–∞–∫–∞—Ä", score: 85 }, 
+{ name: "–î–µ–Ω–∏—Å", score: 92 }, 
+{ name: "–ê–Ω–Ω–∞", score: 78 }, 
+{ name: "–î–∞—à–∞", score: 88 }, 
+{ name: "–°—Ç—É–¥–µ–Ω—Ç_X", score: 45 } 
 ]; 
 module.exports = grades; 
